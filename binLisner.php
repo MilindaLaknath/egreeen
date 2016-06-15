@@ -32,8 +32,8 @@ if ($production == false) {
     $LBS_SERVER_URL = 'https://api.dialog.lk/lbs/locate';
 }
 
-define('APP_ID', 'APP_013169');
-define('APP_PASSWORD', 'ee0364803d67c2752aad888bb1592878');
+define('APP_ID', 'APP_ID');
+define('APP_PASSWORD', 'APP_PASSWORD');
 
 $logger = new Logger();
 
