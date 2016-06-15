@@ -24,8 +24,8 @@ include 'lbs/conf/lbs-conf.php';
 
 $production = false;
 
-$APP_ID = "APP_015652";
-$PASSWORD = "fe933c2c89999303a0e6a94ea1e483c8";
+$APP_ID = "APP_ID";
+$PASSWORD = "APP_PASSWORD";
 
 
 
