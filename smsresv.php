@@ -24,8 +24,8 @@ if ($production == false) {
     $SMS_SERVER_URL = "https://api.dialog.lk/sms/send";
 }
 
-define('APP_ID', 'APP_015652'); 
-define('APP_PASSWORD', 'fe933c2c89999303a0e6a94ea1e483c8');
+define('APP_ID', 'APP_ID'); 
+define('APP_PASSWORD', 'APP_PASSWORD');
 
 $logger = new Logger();
 
